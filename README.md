@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚕 Uber Fare Intelligence
 
 ### Machine Learning–Powered Uber Fare Prediction | New York City
@@ -182,3 +183,7 @@ streamlit-folium
 ---
 
 *Built with Python, Scikit-learn, Streamlit and Folium.*
+=======
+# Uber-Fare-Prediction
+Machine Learning-based Uber fare prediction using Random Forest Regressor, Python, Pandas, NumPy, and Streamlit. Predict ride fares based on pickup and drop-off locations and trip details.
+>>>>>>> b3055cfd2ce233ff5c5d4b6058f8c9328dbbda1f
