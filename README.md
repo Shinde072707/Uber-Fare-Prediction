@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚕 Uber Fare Intelligence
 
 ### Machine Learning–Powered Uber Fare Prediction | New York City
@@ -39,7 +38,7 @@ A Streamlit web application that estimates Uber ride fares from pickup and drop-
 ## 🛠️ Tech Stack
 
 | Area | Technology |
-| --- | --- |
+|---|---|
 | Programming | Python |
 | Data manipulation | Pandas, NumPy |
 | Machine learning | Scikit-learn (Random Forest Regressor) |
@@ -56,7 +55,7 @@ A Streamlit web application that estimates Uber ride fares from pickup and drop-
 **Input features used by the current application:**
 
 | Feature | Description |
-| --- | --- |
+|---|---|
 | `pickup_longitude` | Pickup longitude |
 | `pickup_latitude` | Pickup latitude |
 | `dropoff_longitude` | Destination longitude |
@@ -95,14 +94,14 @@ Uber_Fare_Prediction/
 
 ## 🚀 Installation and Usage
 
-**1. Clone the repository** (replace the placeholder with your repository URL):
+**1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/Shinde072707/Uber-Fare-Prediction.git
+cd Uber-Fare-Prediction
 ```
 
-**2. Create a virtual environment:**
+**2. Create a virtual environment**
 
 ```bash
 python -m venv streamlit_env
@@ -120,13 +119,13 @@ On **macOS/Linux**:
 source streamlit_env/bin/activate
 ```
 
-**3. Install dependencies:**
+**3. Install dependencies**
 
 ```bash
 python -m pip install -r requirements.txt
 ```
 
-**4. Run the app:**
+**4. Run the app**
 
 ```bash
 streamlit run app.py
@@ -183,7 +182,3 @@ streamlit-folium
 ---
 
 *Built with Python, Scikit-learn, Streamlit and Folium.*
-=======
-# Uber-Fare-Prediction
-Machine Learning-based Uber fare prediction using Random Forest Regressor, Python, Pandas, NumPy, and Streamlit. Predict ride fares based on pickup and drop-off locations and trip details.
->>>>>>> b3055cfd2ce233ff5c5d4b6058f8c9328dbbda1f
